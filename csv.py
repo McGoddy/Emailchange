@@ -1,7 +1,7 @@
 # importing panda
 import pandas as pd
 
-# reading the data from the excel file
+# reading the data from the csv file
 data = pd.read_csv('employeedata.csv')
 
 # replacing the something@helpinghands.cm with something@helpinghands.org using the loc function
