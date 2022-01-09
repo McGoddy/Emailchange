@@ -2,7 +2,7 @@
 import openpyxl as xl
 import csv
 
-exl = 'employedata.xlsx'
+exl = 'employeedata.xlsx'
 
 #loading a workbook to contain the excel document
 wb = xl.load_workbook(exl)
